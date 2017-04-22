@@ -23,4 +23,8 @@ include::./generated/definitions.adoc[]
 ```
 
 
+# Example
 
+The `example` folder contains a `update-api-doc` command to update the *Swagger* API in `documents`. 
+
+Simply change the `swagger.yaml` API description or extend the `index.adoc` by manually written documentation and then execute the `update-api-doc` command to create the PDF.

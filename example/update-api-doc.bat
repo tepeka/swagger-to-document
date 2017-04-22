@@ -1,0 +1,1 @@
+docker run --rm -it -v %~dp0/documents:/documents tepeka/swagger-to-document
